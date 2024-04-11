@@ -1,0 +1,25 @@
+.student table{
+
+    border: 2px solid red;
+    border-collapse: collapse;
+    width:250px;
+    margin-bottom: 10px;
+ }
+ .studnet table td,
+ .student table th{
+
+    border : 1px solid blue;
+    text-align: justify;
+    padding:5px 10px;
+    background-color: red;
+   
+
+ }
+ .studnet table th{
+    width: 100px;
+ }
+ .student table td{
+    border: 2px solid rgb(56, 198, 89);
+    padding: 5px 10px;
+    background-color: greenyellow;
+ }
